@@ -42,7 +42,7 @@ class Navbar extends Component {
                                 }
                         activeStyle={{color: 'white', textDecoration: 'underline white'}}
                     >
-                        Hamster
+                        Profile
                     </NavLink>
 
                     <NavLink
